@@ -14,7 +14,7 @@ public class MainApp {
 
     /**
      * Считывает дату с консоли и выводит в консоль количество дней до введеной даты
-     * После введения "quit" роисходит выход из приложения
+     * После введения "quit" происходит выход из приложения
      * @see MainApp#inputDate()
      * @see DateCounter#getDayBeforeBirthday(String)
      * @param args
